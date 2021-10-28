@@ -1,6 +1,4 @@
 
-import Productos from './Productos';
-import {Link} from 'react-router-dom';
 function Login(){
   return(
     <div className="Login">
@@ -23,12 +21,8 @@ function Login(){
         </div> 
 
         <div class="d2"> 
-                 <button type="submit" > 
-                  <a href="/Productos">Ingresar</a>
-                  </button>
+             <a class="a1"href="/Productos"><b>Ingresar</b></a> 
         </div> 
-
-
     </form>
 </div> );
 }

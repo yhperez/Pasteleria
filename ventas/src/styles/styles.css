@@ -72,9 +72,53 @@ h2{
 }
 
 label{
-    color:cadetblue}
+    color:brown}
 
 div.d2{
 margin-top:40px;
-
 }
+
+
+div.d3 h1 {
+    text-align: center;
+    color:cadetblue;
+    margin-right:0px;
+    margin-left: 100px;
+}
+
+a.a1{   
+    text-decoration: none;
+    text-align: center;
+    color: white;
+}
+
+div.d2{
+background-color: #ef845e;
+margin-left: 20%;
+margin-right: 20%;
+}
+div.d4{
+    background-color: #ef845e;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 20px;
+
+    }
+
+
+a.a2{   
+        text-decoration: none;
+        text-align: center;
+        color: white;
+    }
+
+form.f2{
+        text-align: center;
+        margin-left: 500px;
+        margin-right: 500px;
+    
+    }
+h1.h3{
+    text-align: center;
+}
+

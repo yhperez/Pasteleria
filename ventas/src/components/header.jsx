@@ -4,7 +4,7 @@ const Header = ()=> {
   return (
     <div>
   <div class="d1">
-  <h1>Bakery Onze</h1>
+  <h1><b>Bakery Onze</b></h1>
   </div>
   <header class="header">
      <ul class="menu">
