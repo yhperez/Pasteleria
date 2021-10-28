@@ -19,6 +19,14 @@ function Productos2 (){
             <label for="full_name_id" class="control-label"><b>Descripcion</b></label>
             <input type="text" class="form-control" id="full_email_id" placeholder="Ingresa un producto"/>
         </div>
+        <div class="form-group"> 
+            <label for="full_name_id" class="control-label"><b>Valor</b></label>
+            <input type="text" class="form-control" id="full_email_id" placeholder="Ingresa un producto"/>
+        </div>
+        <div class="form-group"> 
+            <label for="full_name_id" class="control-label"><b>Cantidad</b></label>
+            <input type="text" class="form-control" id="full_email_id" placeholder="Ingresa un producto"/>
+        </div>
         <div class="d4"> 
           <a class="a2"href="/Productos">Enviar</a>
         </div> 
