@@ -1,0 +1,80 @@
+body{
+    background: url('p2.jpg');
+    background-size: cover;
+    padding: 0  2.5em;
+   
+  
+}
+h1{ color: brown;
+    font-family:'Dancing Script', cursive;
+    text-align: center;
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    background: #092327;
+    font-family: cursive;
+ 
+}
+.menu li{
+
+    display: inline-block;
+    text-align: center;
+}
+.menu li a{
+    text-decoration: none;
+    padding: 33.45px;
+    display: block;
+    text-align: center;
+    color: white;
+    
+}
+
+.menu li a:hover{
+    background: #ef845e;
+    
+}
+
+div.d1{
+    background:rgba(148, 142, 142, 0.2);
+    padding: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+form{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 200px;
+
+}
+
+.Login{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 350px;
+    height: 420px;
+    padding: 40px 40px;
+    background: rgba(36, 35, 35, 0.75);
+}
+
+h2{
+    color: brown;
+    text-align: center;
+    margin: 0;
+    padding: -100px 80px 20px;
+    
+}
+
+label{
+    color:cadetblue}
+
+div.d2{
+margin-top:40px;
+
+}
