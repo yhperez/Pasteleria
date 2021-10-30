@@ -1,4 +1,3 @@
-import {Link} from 'react-router-dom';
 
 const Header = ()=> {
   return (
@@ -8,12 +7,10 @@ const Header = ()=> {
   </div>
   <header class="header">
      <ul class="menu">
-        <li><a href="Login">Acceso</a></li>
-        <li><a href="Productos">Productos</a></li>
-        <li><a href="Gestionpd">Gestor de productos</a></li>
-        <li><a href="#">Gestor de ventas</a></li>
-        <li><a href="Ventas">Ventas</a></li>
-        <li><a href="Usuariorg">Gestor de usuarios</a></li> 
+        <li><a href="Productos">Gestor de productos</a></li>
+        <li><a href="Ventas">Gestor de ventas</a></li>
+        <li><a href="Usuario">Gestor de usuarios</a></li> 
+        <li><a href="/">Cerrar sesión</a></li>
       </ul>
     </header>
     </div>
