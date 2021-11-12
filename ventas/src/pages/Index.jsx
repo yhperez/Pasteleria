@@ -10,7 +10,7 @@ const Inicio = () => {
 		<div class="capa"></div>
 		<div class="info">
 			<h1 class="hba"><b>Bienvenidos a Bakery Onze</b></h1>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere alias nobis debitis provident ut odio aperiam quibusdam. Amet, neque, illo.</p>
+			<p>Lorem ipsum dolorfjifjeifweofwo sit ametPppP, consectetur adipisicing elit. Facere alias nobis debitis provident ut odio aperiam quibusdam. Amet, neque, illo.</p>
 			<a href="/Login">Login</a>
 		</div>
 	</div>
