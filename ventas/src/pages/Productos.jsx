@@ -61,7 +61,7 @@ class Productos extends React.Component {
     var contador = 0;
     var arreglo = this.state.data;
     arreglo.map((registro) => {
-      if (dato.id == registro.id) {
+      if (dato.id === registro.id) {
         arreglo[contador].producto = dato.producto;
         arreglo[contador].descripcion = dato.descripcion;
         arreglo[contador].valor = dato.valor;
@@ -75,11 +75,11 @@ class Productos extends React.Component {
 
   eliminar = (dato) => {
     var opcion = window.confirm("Estás Seguro que deseas Eliminar el elemento "+dato.id);
-    if (opcion == true) {
+    if (opcion === true) {
       var contador = 0;
       var arreglo = this.state.data;
       arreglo.map((registro) => {
-        if (dato.id == registro.id) {
+        if (dato.id === registro.id) {
           arreglo.splice(contador, 1);
         }
         contador++;
